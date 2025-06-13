@@ -18,7 +18,7 @@ pip install pandas scikit-learn lightgbm
 2. Run the script:
 
 ```bash
-python loan_status_prediction.py
+python main.py
 ```
 
 This will generate a `submission.csv` file containing the predicted loan statuses.
