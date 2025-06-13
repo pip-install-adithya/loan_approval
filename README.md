@@ -1,18 +1,8 @@
 
-```markdown
 # Loan Status Prediction
 
 This project aims to predict loan statuses using machine learning techniques, specifically leveraging the LightGBM classifier. The model processes both categorical and numerical features from the dataset to deliver predictions.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
-- [Modeling](#modeling)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -77,8 +67,5 @@ The project employs the following techniques:
 
 After running the model, the best hyperparameters and ROC-AUC scores will be displayed. The predictions for the test dataset are saved in `submission.csv`.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for discussion.
 
 ```
